@@ -4,7 +4,7 @@ Created with CodeSandbox
 
 Hi everyone, welcome to our new react js website. In this project, We will create a responsive tour and travel website using react js.
 
-This is an gull source code react js template. You will get all the images and  files here.
+This is an  source code react js template. You will get all the images and  files here.
 
 Without wasting your time, let's see what react js actually is...
 
