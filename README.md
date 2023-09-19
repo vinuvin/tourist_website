@@ -16,7 +16,7 @@ If you want to use codesandbox with ready made files.
 
 # Setup
 
-1.Open Your VS Code(If you dont want to use codesandbox).
-2.Download this project.
-3.Drag and drop this project inside VS code.
-4.Open a terminal & run this command. run npm i && npm start
+1. Open Your VS Code(If you dont want to use codesandbox).
+1. Download this project.
+1. Drag and drop this project inside VS code.
+1. Open a terminal & run this command. run npm i && npm start
