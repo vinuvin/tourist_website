@@ -1,7 +1,8 @@
 # tourist_website
 Created with CodeSandbox
 # React-Trippy-Tour-Website-Template
-![C:\Users\Lenovo\Desktop\TRIPY.JPG]
+![TRIPY](https://github.com/vinuvin/tourist_website/assets/110926926/42dd66d4-a8e9-49de-a005-a0eaf1d43175)
+
 
 Hi everyone, welcome to our new react js website. In this project, We will create a responsive tour and travel website using react js.
 
